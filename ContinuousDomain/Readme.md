@@ -3,9 +3,9 @@
 ## MountainCar
 
 ### SARS
-State: (x, v) in which x:position, v:velocity
-Action: backwards, forwards, coast
-Terminal: x>=0.5, i.e., at the most right side
+State: (x, v) in which x:position, v:velocity <br/>
+Action: backwards, forwards, coast <br/>
+Terminal: x>=0.5, i.e., at the most right side <br/>
 Reward: 100 at Terminal, 0 else
 
 ### Result:
